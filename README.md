@@ -40,4 +40,3 @@ This is a React application that uses the GitHub API to display a user's reposit
 ### Delete a Repository
 1. Click the "Delete" button on the repository card.
 2. Confirm the deletion in the prompt.
-
